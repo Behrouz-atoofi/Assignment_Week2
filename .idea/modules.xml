@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_middleNumber/01_middleNumber.iml" filepath="$PROJECT_DIR$/01_middleNumber/01_middleNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_reverseSentence/02_reverseSentence.iml" filepath="$PROJECT_DIR$/02_reverseSentence/02_reverseSentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_middleWord/03_middleWord.iml" filepath="$PROJECT_DIR$/03_middleWord/03_middleWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_firstLastWord/04_firstLastWord.iml" filepath="$PROJECT_DIR$/04_firstLastWord/04_firstLastWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_splitWordsInArray&amp;Stack/05_splitWordsInArray&amp;Stack.iml" filepath="$PROJECT_DIR$/05_splitWordsInArray&amp;Stack/05_splitWordsInArray&amp;Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_1001sharecode/06_1001sharecode.iml" filepath="$PROJECT_DIR$/06_1001sharecode/06_1001sharecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_inheritance/07_inheritance.iml" filepath="$PROJECT_DIR$/07_inheritance/07_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_InheritanceCompany/08_InheritanceCompany.iml" filepath="$PROJECT_DIR$/08_InheritanceCompany/08_InheritanceCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Bricks/09_Bricks.iml" filepath="$PROJECT_DIR$/09_Bricks/09_Bricks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_AreWeThereYet/10_AreWeThereYet.iml" filepath="$PROJECT_DIR$/10_AreWeThereYet/10_AreWeThereYet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_Week2.iml" filepath="$PROJECT_DIR$/Assignment_Week2.iml" />
+    </modules>
+  </component>
+</project>
